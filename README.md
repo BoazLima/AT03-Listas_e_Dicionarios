@@ -7,6 +7,9 @@ print(animais)  # Resultado: ['leão', 'coelho', 'papagaio']
 
 
 
+
+
+
 3) Acessar o número 5 na matriz:
 print(numero)  # Saída: 5
 ![Visualização rapida aqui](matriz.png)
@@ -14,9 +17,15 @@ print(numero)  # Saída: 5
 
 
 
+
+
+
 4) Comprimento da lista exemplo:
 print(len(exemplo))  # Saída: 4
 ![Visualização rapida aqui](exemplo.png)
+
+
+
 
 
 
