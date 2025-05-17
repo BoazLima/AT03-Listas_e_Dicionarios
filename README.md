@@ -29,4 +29,3 @@ Saída esperada:
 Média das notas: 8.23
 Maria está no dicionário.
 (dicionario.png)
-
