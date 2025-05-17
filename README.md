@@ -24,3 +24,9 @@ Atividades das aulas de Programação
 # Terceiro elemento: goiaba
 ![Visualização rapida aqui](frutas.png)
 
+Dicionário chamado alunos para armazenar o nome dos alunos e suas respectivas notas.
+Saída esperada:
+Média das notas: 8.23
+Maria está no dicionário.
+(dicionario.png)
+
