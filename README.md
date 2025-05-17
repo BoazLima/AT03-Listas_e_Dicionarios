@@ -9,11 +9,14 @@ print(animais)  # Resultado: ['leão', 'coelho', 'papagaio']
 print(numero)  # Saída: 5
 ![Visualização rapida aqui](matriz.png)
 
-3) Comprimento da lista exemplo:
+
+4) Comprimento da lista exemplo:
 print(len(exemplo))  # Saída: 4
 ![Visualização rapida aqui](exemplo.png)
 
-4) Acessar elementos na lista frutas:
+
+6) Acessar elementos na lista frutas:
 print(frutas[0])  # Primeiro elemento: morango
 print(frutas[2])  # Terceiro elemento: goiaba
 ![Visualização rapida aqui](frutas.png)
+
