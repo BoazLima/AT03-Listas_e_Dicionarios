@@ -28,4 +28,4 @@ Dicionário chamado alunos para armazenar o nome dos alunos e suas respectivas n
 Saída esperada:
 Média das notas: 8.23
 Maria está no dicionário.
-(dicionario.png)
+![Visualização rapida aqui](dicionario.png)
